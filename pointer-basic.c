@@ -19,7 +19,7 @@ int *q,*r;
 q = &x;
 r = &x;
 printf("%d %d %d",a *p,*q);    //10 10 10
-*q = 20;                       // Value oprintf("%d %d %d",a *p,*q);    //10 10 10f variable 'x' changes to 20
+*q = 20;                       // Value of variable 'x' changes to 20
 printf("%d %d %d",a *p,*q);    //20 20 20
   
 return 0;
