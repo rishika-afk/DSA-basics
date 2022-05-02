@@ -1,0 +1,11 @@
+Function:
+Large computational task is reduced into smaller ones.
+
+Purpose of function: 
+- Reusability
+- Identifying error is easy / Debugging
+- Maintanence easy
+
+Types of functions:
+- Built in functions
+- User defined functions
